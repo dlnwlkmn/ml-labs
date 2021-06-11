@@ -1,0 +1,23 @@
+{
+    "columns": [
+        "volatile acidity scaled",
+        "density scaled",
+        "sulphates scaled",
+        "chlorides scaled",
+        "fixed acidity scaled"
+    ],
+    "rows": 3231,
+    "cols": 5,
+    "target_is_numeric": true,
+    "columns_info": {
+        "volatile acidity scaled": [],
+        "density scaled": [],
+        "sulphates scaled": [],
+        "chlorides scaled": [],
+        "fixed acidity scaled": []
+    },
+    "target_info": [],
+    "n_features": 5,
+    "is_sample_weighted": false,
+    "n_classes": 2
+}

@@ -1,0 +1,6 @@
+feature,shap_importance
+volatile acidity scaled,0.867073095234722
+fixed acidity scaled,0.5531783073401545
+sulphates scaled,0.5324007269303489
+chlorides scaled,0.1864007130878835
+density scaled,0.1300827927075565
